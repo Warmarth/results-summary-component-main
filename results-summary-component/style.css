@@ -107,6 +107,7 @@ button {
   border-radius: 30px;
   margin-bottom: 1rem;
   cursor: pointer;
+  border: none;
 }
 
 button:hover {
