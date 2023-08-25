@@ -107,12 +107,13 @@ button {
   border-radius: 30px;
   margin-bottom: 1rem;
   cursor: pointer;
+    background-color: hsl(224, 30%, 27%);
   border: none;
+  color: #ffffff;
 }
 
 button:hover {
-  background-color: hsl(224, 30%, 27%);
-  color: #ffffff;
+  background-color: hsla(224, 30%, 27% , 0.9);
 }
 
 @media screen and (min-width: 800px) {
